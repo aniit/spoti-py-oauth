@@ -1,0 +1,5 @@
+init_values.json
+.env
+__pycache__/
+spotiman/
+liked_tracks.json
